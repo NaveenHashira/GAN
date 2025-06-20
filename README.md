@@ -42,13 +42,13 @@ This helped the Generator **catch up** during training, allowing both networks t
 Here's a glimpse of how the Generator improved:
 
 ### 📉 Epoch 1
-![Epoch 1](/mnt/data/epoch_1.png)
+![Epoch 1](images/epoch_1.png)
 
 ### 📈 Epoch 35
-![Epoch 35](/mnt/data/epoch_35.png)
+![Epoch 35](images/epoch_35.png)
 
 ### 🌟 Epoch 50
-![Epoch 50](/mnt/data/epoch_50.png)
+![Epoch 50](images/epoch_50.png)
 
 ---
 
